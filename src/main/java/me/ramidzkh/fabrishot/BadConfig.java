@@ -26,6 +26,6 @@ package me.ramidzkh.fabrishot;
 
 public class BadConfig {
 
-    public static final int CAPTURE_WIDTH = 3840;
-    public static final int CAPTURE_HEIGHT = 2160;
+    public static final int CAPTURE_WIDTH = 7680;
+    public static final int CAPTURE_HEIGHT = 5760;
 }
